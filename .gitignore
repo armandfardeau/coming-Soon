@@ -51,3 +51,7 @@ fabric.properties
 
 # *.iml
 # modules.xml
+
+.idea\workspace.xml
+*.html__jb_bak__
+*.html__jb_old__
